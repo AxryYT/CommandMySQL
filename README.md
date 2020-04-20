@@ -1,0 +1,2 @@
+# CommandMySQL
+Plugin CommandMySQL
