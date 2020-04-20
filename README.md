@@ -1,2 +1,2 @@
 # CommandMySQL
-Plugin CommandMySQL
+Support of the plugin CommandMySQL
